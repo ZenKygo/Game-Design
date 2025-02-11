@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - even
+  - odd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backround
+    uniqueID: 995215261
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plants
+    uniqueID: 108403673
+    locked: 0
+  - name: Rocks
+    uniqueID: 875630547
+    locked: 0
+  - name: Floor
+    uniqueID: 1261960387
+    locked: 0
+  m_RenderingLayers:
+  - Default
